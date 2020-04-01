@@ -2,6 +2,10 @@
 
 #### Assignment Submission Date: 26th June 2019
 
+Developed Two Standalone applications using C#.NET console application,
+* One for Writing Data to a Text File
+* Other for Reading Data from a Text File
+
 ### Assignment Brief:
 Writing Data to a Text File -
 * Print the name of the localhost.

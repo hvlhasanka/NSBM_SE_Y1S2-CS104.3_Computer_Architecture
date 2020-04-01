@@ -1,0 +1,7 @@
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\bin\Debug\CA_assignment_part_1.exe.config
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\bin\Debug\CA_assignment_part_1.exe
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\bin\Debug\CA_assignment_part_1.pdb
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\obj\Debug\CA_assignment_part_1.csprojAssemblyReference.cache
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\obj\Debug\CA_assignment_part_1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\obj\Debug\CA_assignment_part_1.exe
+C:\Users\Lucas.L.H.H\Desktop\Computer Architechture Assignment\CA_assignment_part_1\CA_assignment_part_1\obj\Debug\CA_assignment_part_1.pdb
